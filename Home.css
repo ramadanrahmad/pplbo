@@ -182,7 +182,8 @@ img {
     to {
     opacity: 1;
     transform: translateY(0);
-    }n: fade-in-down 5s ease-out;
+    n: fade-in-down 5s ease-out;
+    }
 }
 
 
